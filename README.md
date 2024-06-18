@@ -1,2 +1,2 @@
 # estudantealurastart
-olá
+olá, seja bem vindo!
